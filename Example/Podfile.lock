@@ -1,0 +1,16 @@
+PODS:
+  - MMTappableView (0.1.0)
+
+DEPENDENCIES:
+  - MMTappableView (from `../`)
+
+EXTERNAL SOURCES:
+  MMTappableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MMTappableView: 15cdfabb29225f42c35851d6434756c322580a89
+
+PODFILE CHECKSUM: 2c4568758b6671956051247561151adbd2f83cee
+
+COCOAPODS: 1.6.1

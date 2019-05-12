@@ -1,0 +1,6 @@
+framework module MMTappableView {
+  umbrella header "MMTappableView-umbrella.h"
+
+  export *
+  module * { export * }
+}
