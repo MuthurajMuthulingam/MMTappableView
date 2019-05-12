@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MMTappableView_Example' do
+  pod 'MMTappableView', :path => '../'
+
+  target 'MMTappableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
