@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/MMTappableView.svg?style=flat)](https://cocoapods.org/pods/MMTappableView)
 [![Platform](https://img.shields.io/cocoapods/p/MMTappableView.svg?style=flat)](https://cocoapods.org/pods/MMTappableView)
 
+![](tappableView.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

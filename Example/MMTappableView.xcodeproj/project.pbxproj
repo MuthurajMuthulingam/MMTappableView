@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		20E8B4A5228CFD3B002F8387 /* tappableView.gif in Resources */ = {isa = PBXBuildFile; fileRef = 20E8B4A4228CFD3B002F8387 /* tappableView.gif */; };
 		556B8D34A1D8E0F27B0CF12B /* Pods_MMTappableView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C3521A10F79B1C24E24260E /* Pods_MMTappableView_Example.framework */; };
 		5DF43825873B5EABE3C88B79 /* Pods_MMTappableView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BD64943FD02040A915146A8 /* Pods_MMTappableView_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
@@ -30,6 +31,7 @@
 /* Begin PBXFileReference section */
 		034D60DE3137D2D949D567BC /* Pods-MMTappableView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMTappableView_Tests.release.xcconfig"; path = "Target Support Files/Pods-MMTappableView_Tests/Pods-MMTappableView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		0C3521A10F79B1C24E24260E /* Pods_MMTappableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MMTappableView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		20E8B4A4228CFD3B002F8387 /* tappableView.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = tappableView.gif; path = ../tappableView.gif; sourceTree = "<group>"; };
 		23166F3FADF7457FE261B975 /* Pods-MMTappableView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MMTappableView_Example.debug.xcconfig"; path = "Target Support Files/Pods-MMTappableView_Example/Pods-MMTappableView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* MMTappableView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MMTappableView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -143,6 +145,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
+				20E8B4A4228CFD3B002F8387 /* tappableView.gif */,
 				ECD5BEE0FB3DCDDB0622FAA4 /* MMTappableView.podspec */,
 				80129F1268DB087614BBA702 /* README.md */,
 				8E450790072790D9DE7D8B77 /* LICENSE */,
@@ -246,6 +249,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20E8B4A5228CFD3B002F8387 /* tappableView.gif in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
