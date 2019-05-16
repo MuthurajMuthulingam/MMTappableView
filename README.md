@@ -20,6 +20,11 @@ it, simply add the following line to your Podfile:
 pod 'MMTappableView'
 ```
 
+## Usage
+1. Subclass any UIView from MMTappableView
+2. Set flag isTappable, to indicate if tappable
+3. Set delegate to get events generated while tap happens. That's it
+
 ## Author
 
 Muthuraj Muthulingam, muthurajmuthulingam@gmail.com
